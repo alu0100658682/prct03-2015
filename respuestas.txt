@@ -4,23 +4,9 @@ Respuestas a las preguntas de la práctica 3
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+2.- ¿Qué es una reorganización (rebase)?
 
 
 
 3.- ¿Cuál es la ventaja de reorganizar (rebase)?
-
-2.- ¿Qué es una reorganización (rebase)?
 
